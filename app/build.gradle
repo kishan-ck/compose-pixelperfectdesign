@@ -60,6 +60,8 @@ dependencies {
     debugImplementation "androidx.compose.ui:ui-tooling:$compose_version"
     debugImplementation "androidx.compose.ui:ui-test-manifest:$compose_version"
 
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1'
+
     // Local module
-    implementation project(':pixeleperfectdesign')
+    implementation project(':pixelperfectdesign')
 }

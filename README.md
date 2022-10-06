@@ -16,7 +16,7 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-        implementation 'com.github.irealsp:compose-pixelperfectdesign:0.1.0'
+        implementation 'com.github.irealsp:compose-pixelperfectdesign:0.1.1'
 }
 ```
 
